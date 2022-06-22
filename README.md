@@ -1,5 +1,5 @@
 ## Hi there, I'm Sashen Jayathilaka! 👋
-🔭 Student at Sri Lanka Technological Campus
+<!--🔭 Student at Sri Lanka Technological Campus -->
 
 <div align="center">
   <a href="https://github.com/SashenJayathilaka">
