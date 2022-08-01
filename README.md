@@ -1,8 +1,6 @@
 # Hi there, I'm Sashen Jayathilaka!   <img alt="" width="30" src="https://user-images.githubusercontent.com/99184393/182164442-e2f77cd5-51a9-4066-a0a9-b2749e06a438.gif">
 <!--🔭 Student at Sri Lanka Technological Campus -->
 
-
-
 <hr>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
@@ -23,13 +21,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SashenJayathilaka&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SashenJayathilaka&layout=compact"/>
 </div>
-<a href="https://rextester.com/l/kotlin_online_compiler"><img src="https://user-images.githubusercontent.com/99184393/182161217-a69819ae-c87a-4e64-a3b0-bf4ba73a921a.png"  width="100%" alt="kotlin_online_compiler"/></a>
+<a href="#"><img src="https://user-images.githubusercontent.com/99184393/182161217-a69819ae-c87a-4e64-a3b0-bf4ba73a921a.png"  width="100%" alt="kotlin_online_compiler"/></a>
 <p>
-    <a href="https://wakatime.com/@Voko">
+    <a href="#">
         <img src="https://activity-graph.herokuapp.com/graph?username=SashenJayathilaka&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="55%" alt="activity graph">
       <img src="https://github-profile-trophy.vercel.app/?username=SashenJayathilaka&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Voko's trophy stats"/>
     </a>
 </p>
+
 <div> 
   <h3 align="center">Connect With Me!!!<img align="center" src="https://user-images.githubusercontent.com/99184393/182164278-7b3eeaba-89b7-4467-88a0-c5dfd538bf78.gif" height="33px" /></h3>
   <a href="https://twitter.com/SashenHasinduJ" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
