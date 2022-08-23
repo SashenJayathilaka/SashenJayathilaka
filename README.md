@@ -20,9 +20,10 @@
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="" height="30" width="30" src="https://user-images.githubusercontent.com/99184393/177784603-d69e9d02-721a-4bce-b9b3-949165d2edeb.png">
   <img align="center" alt="" height="30" width="30" src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-400w.png">
+    <img align="center" alt="" height="30" width="30" src="https://user-images.githubusercontent.com/99184393/186053966-2e630de4-096a-4668-8e4a-863b41b24a98.png">
 </div>
   
-  ##
+  <br />
  
 <div> 
   <a href="https://twitter.com/SashenHasinduJ" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
@@ -32,7 +33,7 @@
   <a href = "mailto:sashenjayathilaka95@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
-  
+ <hr />
   
 
   
