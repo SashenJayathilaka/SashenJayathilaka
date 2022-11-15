@@ -11,8 +11,8 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-      <img align="center" alt="" height="30" width="30" src="https://user-images.githubusercontent.com/99184393/201828007-451fcae6-d954-4fba-bb4b-06ac66e932e8.png">
    <img align="center" alt="js" height="30" width="30" src="https://user-images.githubusercontent.com/99184393/180459460-36cf25b6-8654-4795-8e0c-1b2e9a8a2070.png">
+   <img align="center" alt="" height="30" width="30" src="https://user-images.githubusercontent.com/99184393/201828007-451fcae6-d954-4fba-bb4b-06ac66e932e8.png">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Cshark" height="30" width="30" src="https://user-images.githubusercontent.com/99184393/180462270-ea4a249c-627c-4479-9431-5c3fd25454c4.png">
