@@ -23,7 +23,7 @@
   <img align="center" alt="" height="30" width="30" src="https://user-images.githubusercontent.com/99184393/201828062-d7e933ca-d921-4f07-a907-6b8e2ae4a281.png">
   <img align="center" alt="" height="30" width="30" src="https://user-images.githubusercontent.com/99184393/177784603-d69e9d02-721a-4bce-b9b3-949165d2edeb.png">
   <img align="center" alt="" height="30" width="30" src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-400w.png">
-    <img align="center" alt="" height="30"  src="https://github.com/user-attachments/assets/f2e01459-bba9-4b52-b8f3-e2ff4734a7d5">
+    <img align="center" alt="" height="30" width="50" src="https://github.com/user-attachments/assets/f2e01459-bba9-4b52-b8f3-e2ff4734a7d5">
 </div>
 
   <br />
