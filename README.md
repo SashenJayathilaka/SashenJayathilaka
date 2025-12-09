@@ -1,12 +1,13 @@
 ## Hi there, I'm Sashen Jayathilaka! 👋
 <!--🔭 Student at Sri Lanka Technological Campus -->
 
+<!--
 <div align="center">
   <a href="https://github.com/SashenJayathilaka">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SashenJayathilaka&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SashenJayathilaka&layout=compact"/>
 </div>
-  
+-->
 
 
 <div style="display: inline_block"><br>
