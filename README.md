@@ -1,17 +1,18 @@
-## 👋 Hi there, I'm Sashen Jayathilaka
+## 👋 G'day! I'm Sashen Jayathilaka
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F73A6C&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Full-Stack+Developer;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F73A6C&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Next.js+Specialist;Cloud+Computing+Student+%40+Deakin;Building+Scalable+Web+Apps" alt="Typing SVG" />
 </div>
 
 ---
 
-### 🚀 About Me
+### 🇦🇺 About Me
 
-- 🎓 Software Engineering student at **Sri Lanka Technological Campus**
-- 💡 Passionate about building innovative web and mobile solutions
-- 🌱 Currently exploring **Cloud Computing** & **AI/ML**
-- ⚡ Fun fact: I love turning complex problems into simple solutions
+- 💻 Full-Stack Developer specializing in **React**, **Next.js**, and modern JavaScript
+- ☁️ Studying **Cloud Computing** at **Deakin University**, Australia
+- 🚀 Passionate about building fast, responsive, and scalable web applications
+- 🎯 Combining frontend excellence with cloud-native backend solutions
+- ⚡ Fun fact: I love turning UI/UX designs into seamless digital experiences
 
 ---
 
@@ -21,10 +22,11 @@
   
 | Category | Technologies |
 |----------|-------------|
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) |
-| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) |
-| **Cloud & Tools** | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **Styling** | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 
 </div>
 
@@ -43,7 +45,23 @@
 
 ---
 
-### 🌐 Connect With Me
+### 🚀 What I'm Currently Building
+
+- 🎨 Modern web apps with **Next.js 14+** (App Router, Server Components)
+- ⚡ Full-stack applications with **React + Node.js**
+- 🗄️ RESTful APIs and database integrations
+- ☁️ Deploying apps on **Vercel**, **AWS**, and cloud platforms
+
+### 🎯 Learning & Exploring
+
+- 🔄 **Server Actions** and **React Server Components**
+- 🛢️ **Prisma** and **Drizzle** ORMs
+- 📱 **React Native** for mobile development
+- 🚢 **Docker** & **Kubernetes** for containerization
+
+---
+
+### 🌏 Connect With Me
 
 <div align="center">
   
@@ -51,6 +69,7 @@
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SashenHasinduJ)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sashen.jayathilaka@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SashenJayathilaka)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=portfolio&logoColor=white)](https://your-portfolio.com)
   
 </div>
 
@@ -59,5 +78,11 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=SashenJayathilaka&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   
-  ### ⭐ Thanks for stopping by! ⭐
+  ### 💻 *Code. Deploy. Repeat.* 💻
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
 </div>
