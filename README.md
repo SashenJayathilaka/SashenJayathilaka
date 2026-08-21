@@ -32,10 +32,11 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-    
+   <!-- 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SashenJayathilaka&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=SashenJayathilaka&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0D1117&hide_rank=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SashenJayathilaka&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0D1117&hide_rank=true" alt="GitHub Stats" height="165" /> 
+  -->
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SashenJayathilaka&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" height="150" />
 </div>
