@@ -30,22 +30,6 @@
 
 ---
 
-### 🛠️ Featured Projects
-
-| Project | Description | Tech Stack | Timeline |
-|---------|-------------|------------|----------|
-| 🎯 **VibeCheck-AI** | Deployed multimodal AI model (text/audio/video) using PyTorch on AWS SageMaker (92% accuracy); built SaaS platform with T3 Stack (Next.js, Tailwind, Auth.js) for quota/user management | AWS SageMaker, PyTorch, Next.js, React, Tailwind, Auth.js | Apr 2025 - Present |
-| 📊 **Project Management SaaS** | Architected full-stack dashboard with Next.js, PostgreSQL, and Prisma; integrated AWS Lambda & Cognito for 45% scalability boost with RBAC | AWS Lambda, Cognito, Next.js, Tailwind, Node.js, PostgreSQL, Prisma | Jan 2025 |
-| 🤖 **Instagram Automation SaaS** | AI-powered DM automation via Instagram API; increased user engagement by 30% and decision-making speed by 40% | Next.js, Tailwind, Instagram API, Prisma, Webhooks | Dec 2024 - Jan 2025 |
-| 💬 **Real-Time Messaging Platform** | Full-stack communication platform with 1-to-1 messaging, dynamic chat rooms, Google OAuth; GraphQL API with MongoDB | Next.js, GraphQL, Node.js, MongoDB, Prisma, TypeScript, NextAuth | Jan - Apr 2023 |
-| 🏡 **Property Booking App** | Booking platform with image uploads (Cloudinary), location selection, map components, country autocomplete | Next.js 13, Tailwind, Prisma, MongoDB, NextAuth, Framer Motion | Jan - Apr 2023 |
-| 📦 **Package Tracking App** | Logistics tracking mobile app with real-time status updates; StepZen GraphQL + Firebase Realtime DB | React Native, Firebase, StepZen, Tailwind CSS | Dec 2022 - Jan 2023 |
-| 🛒 **E-Commerce Storefront** | Amazon-inspired platform with Stripe checkout, Cloud Firestore backend, Google Authentication | React, Next.js, Stripe, Firestore, Redux, Tailwind CSS | Sep - Oct 2022 |
-| 🍔 **On-Demand Food Delivery** | Cross-platform mobile app with multi-step ordering, Redux state management | React Native, Redux, Tailwind CSS | Sep 2022 |
-| 💬 **Community Discussion Platform** | Scalable forum with dynamic user groups, real-time voting, Recoil state management | Next.js, Firebase v9, Chakra UI, TypeScript, Recoil | Aug - Sep 2022 |
-
----
-
 ### 💻 Tech Stack & Tools
 
 **Programming Languages:**
@@ -113,7 +97,7 @@
 |--------|-------------|--------|------------|
 | **Master of Applied Artificial Intelligence (Professional)** | Deakin University | Jun 2026 - Jun 2028 | Advanced ML, deep learning, NLP, neural networks, human-aligned AI systems |
 | **Bachelor of Information Technology** (Networking & Cloud Computing) | Deakin University | Jun 2023 - Jun 2026 | Cloud-native development, network security, industry placement |
-| **BSc (Hons) in Cloud Computing** (Transferred credits) | SLTC | Jul 2020 - Feb 2023 | GPA: 3.09; Cloud computing, computer science fundamentals |
+| **BSc (Hons) in Cloud Computing** (Transferred credits) | SLTC | Jul 2020 - Feb 2023 | Cloud computing, computer science fundamentals |
 
 ---
 
