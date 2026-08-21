@@ -18,18 +18,6 @@
 
 ---
 
-### 💼 Professional Experience
-
-| Role | Company | Period | Key Achievements |
-|------|---------|--------|------------------|
-| **Full-Stack Software Engineer (Freelance/Contract)** | Independent Clients (Ausi.lk) | Aug 2025 - Present | Building high-performance e-commerce platform with automated notifications and complex scraping logic |
-| **Windows Application Developer (Placement)** | Focus Bear Pty Ltd | Mar 2025 - Jul 2025 | Developed core features for Windows desktop app used by 20,000+ users; implemented system-level blocking & background services |
-| **Lead Frontend Developer** | Gopher Industries | Jul 2025 - Oct 2025 | Promoted to Frontend Git Lead; owned frontend architecture, component libraries, and CI/CD workflows |
-| **Frontend Developer** | Gopher Industries | Mar 2025 - Jun 2025 | Designed responsive UIs; translated wireframes into scalable frontend code; optimized performance |
-| **Full-Stack Software Developer & Consultant** | Self-Employed | Aug 2022 - Present | Delivered multiple SaaS platforms; real-time messaging; Instagram automation; AI-powered tools |
-
----
-
 ### 💻 Tech Stack & Tools
 
 **Programming Languages:**
