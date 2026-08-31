@@ -65,14 +65,15 @@
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
 
 
-<!---
+
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SashenJayathilaka&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SashenJayathilaka&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=SashenJayathilaka&show_icons=true&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=SashenJayathilaka&show_icons=true&include_all_commits=true&theme=radical" alt="GitHub Stats" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=SashenJayathilaka&layout=compact&langs_count=6&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=SashenJayathilaka&layout=compact&langs_count=6&theme=radical" alt="Top Languages" />
 </div>
 
+<!--
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SashenJayathilaka&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
