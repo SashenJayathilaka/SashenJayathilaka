@@ -1,125 +1,64 @@
-<div align="center">
-  <h2>👋 G'day! I'm Sashen Jayathilaka</h2>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F73A6C&center=true&vCenter=true&width=800&lines=Cloud+%26+Backend+Engineer;Full-Stack+Developer;Master+of+Applied+AI+(Prof)+%40+Deakin;AWS+%7C+Node.js+%7C+TypeScript+Specialist;Building+Scalable+SaaS+Platforms" alt="Typing SVG" />
-</div>
-
-<br/>
-
----
-
-### 🚀 About Me
-
-- ☁️ **Cloud & Backend Engineer** with 4+ years of experience building scalable, secure SaaS platforms on AWS.
-- 🎓 **Master's Student** currently pursuing my **Master of Applied Artificial Intelligence (Professional)** at Deakin University (2026-2028), focused on designing and scaling AI-driven software solutions.
-- 💻 **Full-Stack Developer** with expertise in Node.js, TypeScript, React, Next.js, and cloud-native architectures.
-- 🔧 **DevOps Enthusiast** passionate about observability, CI/CD automation, and developer experience.
-- 🌏 Based in Melbourne, Australia, working on freelance and independent projects.
-- 🏗️ **System-Level Thinker** combining backend engineering with hands-on coding to deliver resilient, efficient platforms.
-
----
-
-### 💻 Tech Stack & Tools
-
-**Programming Languages:**
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-
-**Frontend & Frameworks:**
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/-React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/-Chakra_UI-319795?style=flat&logo=chakra-ui&logoColor=white)
-
-**Backend & Database:**
-![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-
-**Cloud & DevOps:**
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![AWS CDK](https://img.shields.io/badge/-AWS_CDK-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/-GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
-
-**AI & ML:**
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![AWS SageMaker](https://img.shields.io/badge/-AWS_SageMaker-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-
-**Testing & Quality:**
-![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
+## Hi there, I'm Sashen Jayathilaka! 👋
+<!--🔭 Student at Sri Lanka Technological Campus -->
 
 
-
-### 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=SashenJayathilaka&show_icons=true&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=SashenJayathilaka&show_icons=true&include_all_commits=true&theme=radical" alt="GitHub Stats" />
+  <a href="https://github.com/SashenJayathilaka">
+   <img height="180em" src="https://github-stats-extended.vercel.app/api?username=SashenJayathilaka&show_icons=true&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=SashenJayathilaka&show_icons=true&include_all_commits=true&theme=radical" alt="GitHub Stats" />
   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=SashenJayathilaka&layout=compact&langs_count=6&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=SashenJayathilaka&layout=compact&langs_count=6&theme=radical" alt="Top Languages" />
 </div>
 
+
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   <img align="center" alt="js" height="30" width="30" src="https://user-images.githubusercontent.com/99184393/180459460-36cf25b6-8654-4795-8e0c-1b2e9a8a2070.png">
+   <img align="center" alt="" height="30" width="30" src="https://user-images.githubusercontent.com/99184393/201828007-451fcae6-d954-4fba-bb4b-06ac66e932e8.png">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Cshark" height="30" width="30" src="https://user-images.githubusercontent.com/99184393/180462270-ea4a249c-627c-4479-9431-5c3fd25454c4.png">
+  <img align="center" alt="Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="css" height="30" width="30" src="https://user-images.githubusercontent.com/99184393/201854074-917b3994-ea11-447a-86f9-d7a9e4969f0c.png">
+  <img align="center" alt="" height="30" width="30" src="https://user-images.githubusercontent.com/99184393/201828062-d7e933ca-d921-4f07-a907-6b8e2ae4a281.png">
+  <img align="center" alt="" height="30" width="30" src="https://user-images.githubusercontent.com/99184393/177784603-d69e9d02-721a-4bce-b9b3-949165d2edeb.png">
+  <img align="center" alt="" height="30" width="30" src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-400w.png">
+    <img align="center" alt="" height="30" width="50" src="https://github.com/user-attachments/assets/f2e01459-bba9-4b52-b8f3-e2ff4734a7d5">
+</div>
+
+  <br />
+
+<div> 
+  <a href="https://twitter.com/SashenHasinduJ" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/sashen-jayathilaka-9a7170231/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ 	<a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+ <a href="#" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:sashen.jayathilaka@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+</div>
+ <hr />
+
+
+
+
 <!--
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SashenJayathilaka&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+**SashenJayathilaka/SashenJayathilaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 -->
----
-
-### 🎓 Education
-
-| Degree | Institution | Period | Highlights |
-|--------|-------------|--------|------------|
-| **Master of Applied Artificial Intelligence (Professional)** | Deakin University | Jun 2026 - Jun 2028 | Advanced ML, deep learning, NLP, neural networks, human-aligned AI systems |
-| **Bachelor of Information Technology** (Networking & Cloud Computing) | Deakin University | Jun 2023 - Jun 2026 | Cloud-native development, network security, industry placement |
-| **BSc (Hons) in Cloud Computing** (Transferred credits) | SLTC | Jul 2020 - Feb 2023 | Cloud computing, computer science fundamentals |
-
----
-
-### 🏅 Key Competencies
-
-- ☁️ **Cloud Infrastructure:** AWS (EC2, Lambda, S3, RDS, CloudFront, SageMaker, Cognito), Docker, Terraform, AWS CDK
-- 🔄 **CI/CD:** GitHub Actions, GitLab CI, Jenkins, AWS CodeDeploy
-- 🔐 **Security:** WAF, CI Security Scans, IAM Policies (RBAC)
-- 📊 **Observability:** CloudWatch Logs, New Relic
-- 🧪 **Testing:** Playwright, E2E Testing, API Integration Testing, Automated UI Testing
-- 🏗️ **Architecture:** System Design, Microservices, REST APIs, WebSockets, GraphQL
-
----
-
-### 🌏 Connect With Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/sashen-jayathilaka-9a7170231/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/SashenHasinduJ"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="mailto:sashen.jayathilaka@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://sashenjayathilaka.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://github.com/SashenJayathilaka"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SashenJayathilaka&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/SashenJayathilaka?label=Followers&style=social" alt="Followers" />
-</div>
-
----
-
-<div align="center">
-  <i>💡 Building resilient, scalable systems that solve real problems.</i>
-</div>
+  <!--
+  <p align="center">
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SashenJayathilaka&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+</p>
+-->
