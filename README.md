@@ -5,8 +5,9 @@
 
 <div align="center">
   <a href="https://github.com/SashenJayathilaka">
-   <img height="180em" src="https://github-stats-extended.vercel.app/api?username=SashenJayathilaka&show_icons=true&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=SashenJayathilaka&show_icons=true&include_all_commits=true&theme=radical" alt="GitHub Stats" />
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=SashenJayathilaka&layout=compact&langs_count=6&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=SashenJayathilaka&layout=compact&langs_count=6&theme=radical" alt="Top Languages" />
+    <img height="168" align="middle" src="https://github-stats-extended.vercel.app/api?username=SashenJayathilaka&show_icons=true&include_all_commits=true&theme=radical" alt="GitHub Stats" />
+    <img height="210" align="middle" src="https://github-stats-extended.vercel.app/api/top-langs?username=SashenJayathilaka&layout=compact&langs_count=6&theme=radical" alt="Top Languages" />
+  </a>
 </div>
 
 
